@@ -1,0 +1,5 @@
+{
+  "name": "helper app",
+  "description": "A foundational React application demonstrating a three-layered architecture (UI, Zustand Store, Service Layer) with role-based access control for navigation.",
+  "requestFramePermissions": []
+}
